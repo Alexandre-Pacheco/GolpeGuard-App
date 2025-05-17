@@ -28,9 +28,6 @@ OpenAI API (GPT-4 Turbo)
 📌 Objetivo
 Este projeto tem como objetivo detectar golpes em mensagens usando uma arquitetura híbrida de IA...
 
-👨‍💻 Autor
-Alexandre Freitas de Lima Pacheco
-Estudante de Engenharia da Computação – IFPB
 
 - ✅ **Classificação Híbrida:** Utiliza o modelo local com fallback automático para IAs externas, dependendo da confiança da predição.
 - 🔁 **Aprendizagem Contínua:** Adapta-se com o tempo por meio do feedback do usuário e de exemplos coletados automaticamente (via scraping do ReclameAqui).
@@ -38,6 +35,11 @@ Estudante de Engenharia da Computação – IFPB
 - 📊 **Relatórios de Avaliação:** Geração de métricas de desempenho para monitoramento do modelo.
 - 🔐 **Configuração Segura:** Uso de variáveis de ambiente para armazenar chaves de API.
 - 🚀 **Pronto para Google Colab:** Integração com `pyngrok` para testes remotos simples.
+
+
+👨‍💻 Autor
+Alexandre Freitas de Lima Pacheco
+Estudante de Engenharia da Computação – IFPB
 
 ---
 
