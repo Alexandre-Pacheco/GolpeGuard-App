@@ -27,12 +27,12 @@ Aplicação Flask inteligente para detecção de golpes, combinando aprendizado 
 pip install -r requirements.txt
 python app.py
 
-📬 API Endpoints
+#📬 API Endpoints
 POST /api/v1/classificar: Classifica uma mensagem como golpe ou legítima.
 
 POST /api/v1/retrain: Retreina o modelo local com novos dados. (Protegido)
 
-🧠 Tecnologias Utilizadas
+#🧠 Tecnologias Utilizadas
 Flask
 
 Scikit-learn
@@ -45,9 +45,9 @@ BeautifulSoup & Requests (Scraping)
 
 pyngrok (para testes no Colab)
 
-📌 Objetivo
+#📌 Objetivo
 Este projeto foi desenvolvido como uma iniciativa para explorar aplicações práticas de Inteligência Artificial na detecção de fraudes, com foco em adaptabilidade e integração com grandes modelos de linguagem.
 
-👨‍💻 Autor
+#👨‍💻 Autor
 Alexandre Freitas de Lima Pacheco
 Estudante de Engenharia da Computação – IFPB Campus Campina Grande
