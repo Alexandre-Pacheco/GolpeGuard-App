@@ -11,6 +11,12 @@ Aplicação Flask inteligente para detecção de golpes, combinando aprendizado 
 ---
 
 ## 🔍 Funcionalidades Principais
+# GolpeGuard: Detetor Inteligente de Golpes com Flask, IA e Aprendizagem Contínua
+
+Detecta mensagens fraudulentas com IA híbrida (modelo local + GPT-4 Turbo / Gemini Pro), aprendizado contínuo e integração via Flask API.
+
+![Interface do GolpeGuard TI](./interface-golpeguard.png)
+
 📬 API Endpoints
 POST /api/v1/classificar – Classifica mensagens
 
