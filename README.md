@@ -59,8 +59,6 @@ Este projeto visa criar um sistema acessível e eficiente para detecção de gol
 
 **Alexandre Freitas de Lima Pacheco**  
 Estudante de Engenharia da Computação – IFPB Campus Campina Grande  
-GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)  
-LinkedIn: [https://linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
 
 ---
 
